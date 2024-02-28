@@ -4,7 +4,7 @@
     {
         public static class Mandril
         {
-            public const string NotFound = "El mandril solicitado no existe";
+            public const string NotFound = "El mandril solicitado no existe!!!";
         }
 
         public static class Habilidad
